@@ -1,10 +1,12 @@
-<h1>Lightning Algorihtm (Unity)</h1>
+<h1>Lightning Algorihtm</h1>
 
 ### [Release Build](https://github.com/ItsCam32/LightningAlgoritm/releases/tag/v1.0.0)
 
 <h2>Description</h2>
 Breadth-first search algorithm that repeatedly generates random mazes with hundreds of possible tiles to pass through, and finds the fastest route.
-<br />
+<br>
+<br>
+<b>Simulated in the Unity engine.</b>
 
 <h2>Media</h2>
 
